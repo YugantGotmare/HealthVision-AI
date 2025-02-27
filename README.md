@@ -1,5 +1,4 @@
 # HealthVision AI
-https://healthvision-ai.streamlit.app/
 
 Welcome to HealthVision AI, an advanced health prediction and cell segmentation web application powered by cutting-edge machine learning models.
 
